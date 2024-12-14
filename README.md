@@ -54,16 +54,12 @@ print(y.grad)  # Automatically computed gradient
 ## References
 
 - [Andrej Karpathy's Micrograd](https://github.com/karpathy/micrograd)
-- Deep Learning Frameworks: PyTorch, TensorFlow
+- Deep Learning : Backpropagation 
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Choose an appropriate license, e.g., MIT License]
-```
 
 ## Future Improvements
 
