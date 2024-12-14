@@ -49,9 +49,7 @@ print(y.grad)  # Automatically computed gradient
 
 ## Computacional Graph
 
-Forward Pass
-![image](https://github.com/user-attachments/assets/3962956a-14e1-42b7-a078-92a866d6d1f4)
-
+![image](https://github.com/user-attachments/assets/ee79a41b-8862-45b4-9f40-24dae41cb9e5)
 
 ## References
 
