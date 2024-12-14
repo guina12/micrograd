@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a lightweight automatic differentiation framework, inspired by Andrej Karpathy's Micrograd. The framework demonstrates the core principles of automatic differentiation, showcasing how computational graphs enable efficient gradient computation in deep learning.
+This project implements a lightweight automatic differentiation framework, inspired by Andrej Karpathy's Micrograd. The framework demonstrates the core principles of automatic differentiation, showcasing how computational graphs enable efficient gradient computation in deep learning. 
 
 ## Key Features
 
