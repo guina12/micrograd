@@ -47,6 +47,12 @@ print(x.grad)  # Automatically computed gradient
 print(y.grad)  # Automatically computed gradient
 ```
 
+## Computacional Graph
+
+Forward Pass
+![image](https://github.com/user-attachments/assets/3962956a-14e1-42b7-a078-92a866d6d1f4)
+
+
 ## References
 
 - [Andrej Karpathy's Micrograd](https://github.com/karpathy/micrograd)
@@ -68,6 +74,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Expand test coverage
 - Create more comprehensive documentation
 
-## Author
-
-[Your Name]
